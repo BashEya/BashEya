@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on similar interestes
 - 📫 How to reach me:
   > email: bashmodulus@gmail.com
-  > twitter: @BashEya
+  > twitter: https://www.twitter.com/@BashEya
+  > LinkedIn: https://www.linkedin.com/in/bashir-sani/
 
 <!---
 BashEya/BashEya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
